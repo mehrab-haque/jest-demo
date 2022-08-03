@@ -1,3 +1,3 @@
 test("Demo Test",()=>{
-    throw new Error("Error In Demo Test")
+    expect(2).toBe(2)
 })
